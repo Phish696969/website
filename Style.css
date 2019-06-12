@@ -64,9 +64,14 @@ a {
 	color: red;
 }
 
-h1, h2, h3{
+h1, {
 		margin: 0;
-		font-size: 24;
+		font-size: 32;
+}
+
+h2, h3{
+	margin: auto;
+	font-size: 24
 }
 
 #container{
