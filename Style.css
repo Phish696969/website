@@ -39,8 +39,6 @@ body{
 	height: 400px;
 }
 
-
-
 .topnav{
 	background-color: #333;
 	overflow: hidden;
@@ -134,7 +132,7 @@ h2 {
 
 h3 {
 	margin: auto;
-	font-size: 19;
+	font-size: 18;
 }
 
 #container{
