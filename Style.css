@@ -127,9 +127,13 @@ h1, {
 		font-size: 32;
 }
 
-h2, h3{
+h2 {
 	margin: auto;
 	font-size: 24
+}
+
+h3 {
+	font-size: 19
 }
 
 #container{
